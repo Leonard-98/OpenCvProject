@@ -19,7 +19,7 @@ Mat drawing;
 vector<vector<Point> > contours;
 vector<Point> points;
 
-//astea sunt bgr
+//acestea sunt bgr
 Scalar black(30, 30, 30);
 Scalar brown(0, 38, 61);
 Scalar red(2, 30, 130);
